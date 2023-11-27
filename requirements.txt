@@ -54,4 +54,4 @@ urllib3==1.26.14
 validators==0.20.0
 watchdog==2.3.0
 zipp==3.15.0
-pymongo==2.4.2
+pymongo==4.6.0
